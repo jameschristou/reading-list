@@ -19,7 +19,7 @@ I've created this list so I can easily share my thoughts on books I have read re
 ## Previously Read
 | Title     | Author | Description | Categories | My Rating |
 | --------- | ------ | ----------- | ---------- | --------- |
-|[The Manager`s Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com.au/Manager%60s-Path-Camille-Fournier/dp/1491973897)  | Camille Fournier  | This is a must read book for anyone interested in becoming a technical leader in the field of Software Engineering. The author takes you through the journey of career growth, from Software Engineer all the way up to CTO, and this is based on their own experience. There are lots of great practical tips and advice for anyone at any step of this journey. I'm a Development Team Lead but I found the whole book applicable and valuable. | Leadership, Management, Engineering | 5/5 |
+|[The Manager`s Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com.au/Manager%60s-Path-Camille-Fournier/dp/1491973897)  | Camille Fournier  | This is a must read book for anyone interested in becoming a Software Engineering leader. The author takes you through the journey of career growth, from Software Engineer all the way up to CTO, and this is based on their own experience. There are lots of great practical tips and advice for anyone at any step of this journey. I'm a Development Team Lead but I found the whole book applicable and valuable. | Leadership, Management, Engineering | 5/5 |
 |[The Book of Joy: Lasting Happiness in a Changing World](https://www.amazon.com/Book-Joy-Lasting-Happiness-Changing/dp/0399185046)|Douglas Carlton Abrams||Self Improvement| 5/5 |
 |[Radical Candor](https://www.amazon.com.au/RADICAL-CANDOR-KIM-SCOTT/dp/1250103509)|Kim Scott||Leadership, Management, Culture | 5/5 |
 |[Build It: The Rebel Playbook for World-Class Employee Engagement](https://www.amazon.com/Build-Playbook-World-Class-Employee-Engagement/dp/1119390052)|Glenn Elliott, Debra Corey||Leadership, Culture | 2/5 |
@@ -33,3 +33,7 @@ I've created this list so I can easily share my thoughts on books I have read re
 | Title     | Author | Description | Categories | My Rating |
 | --------- | ------ | ----------- | ---------- | --------- |
 | [Masters of Scale](https://mastersofscale.com/) | Reid Hoffman | This is my favourite podcast. Reid (founder of LinkedIn) is an incredible story teller and he never fails to teach you something as he interviews the most successful people in the Tech industry. There are some incredible stories of how the most successful Silicon Valley icons started and currently there is a special **Rapid Response** set of episodes that focus specifically on the social and COVID related challenges facing American industry. | Tech, Entrepreneurship, Start Ups, Leadership | 5/5 |
+|[How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)|Guy Raz||Entrepreneurship, Start Ups|4/5|
+|[Product Thinking](https://produxlabs.com/product-thinking)|Melissa Perri||Product Management|4/5|
+|[Gartner Talent Angle](https://www.gartner.com/en/podcasts/talent-angle)|Scott Engler||Leadership, Management|4/5|
+|[Tech Lead Journal](https://techleadjournal.dev/)|Henry Suryawirawan||Tech Leadership, Engineering|4/5|
