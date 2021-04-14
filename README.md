@@ -4,25 +4,26 @@ I've created this list so I can easily share my thoughts on books I have read re
 ## Currently Reading
 | Title     | Author |
 | ----------- | ----------- |
-| [In the Plex: How Google Thinks, Works, and Shapes Our Lives](https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1416596585)    | Steven Levy      |
+| [Product Leadership: How Top Product Managers Launch Awesome Products and Build Successful Teams](https://www.amazon.com.au/Product-Leadership-Richard-Banfield/dp/1491960604) | Richard Banfield |
 
 ## On My List
 | Title     | Author |
 | ----------- | ----------- |
-| [Product Leadership: How Top Product Managers Launch Awesome Products and Build Successful Teams](https://www.amazon.com.au/Product-Leadership-Richard-Banfield/dp/1491960604) | Richard Banfield |
-| [High Output Management](https://www.amazon.com.au/High-Output-Management-Andrew-Grove/dp/0679762884) |Andrew S. Grove|
+| [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com.au/Drive-Surprising-Truth-About-Motivates/dp/1594484805) |Daniel H. Pink|
 | [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860) | Reed Hastings, Erin Meyer |
+| [High Output Management](https://www.amazon.com.au/High-Output-Management-Andrew-Grove/dp/0679762884) |Andrew S. Grove|
 | [Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.au/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) | Nicole Forsgren Phd, Jez Humble, Gene Kim|
 | [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com.au/Managing-Humans-Humorous-Software-Engineering-dp-1484221575/dp/1484221575/) |Michael Lopp|
 | [Lean Enterprise: How High Performance Organizations Innovate at Scale](https://www.amazon.com.au/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425) |Jez Humble|
 | [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X) |Melissa Perri|
-| [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com.au/Drive-Surprising-Truth-About-Motivates/dp/1594484805) |Daniel H. Pink|
 | [Act Like a Leader, Think Like a Leader](https://www.amazon.com.au/Act-Like-Leader-Think-ebook/dp/B00O4CRR8S) |Herminia Ibarra|
 | [Good to Great: Why Some Companies Make the Leap and Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) |Jim Collins|
+| [Build What Matters](https://www.amazon.com.au/Build-What-Matters-Delivering-Vision-Led-ebook/dp/B08GQMCP19) |Ben Foster|
 
 ## Previously Read
 | Title     | Author | Description | Categories | My Rating |
 | --------- | ------ | ----------- | ---------- | --------- |
+|[In the Plex: How Google Thinks, Works, and Shapes Our Lives](https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1416596585) | Steven Levy | I'm a self confessed Google fan boy so I loved reading this book. It's basically the history of Google (up until 2010) as told through interviews with many of the people that helped build it. There's some great insights into the collegiate, engineering culture that Larry Page and Sergey Brin created and how this was scaled to create one of the most successful and influential businesses of our time. The book details the many challenges they faced as Google grew but also highlights how often they made the right calls. | Leadership, Entrepreneurship, Tech | 4/5 |
 |[The Manager`s Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com.au/Manager%60s-Path-Camille-Fournier/dp/1491973897)  | Camille Fournier  | This is a must read book for anyone interested in becoming a Software Engineering leader. The author takes you through the journey of career growth, from Software Engineer all the way up to CTO, and this is based on their own experience. There are lots of great practical tips and advice for anyone at any step of this journey. I'm a Development Team Lead but I found the whole book applicable and valuable. | Leadership, Management, Engineering | 5/5 |
 |[The Book of Joy: Lasting Happiness in a Changing World](https://www.amazon.com/Book-Joy-Lasting-Happiness-Changing/dp/0399185046)|Douglas Carlton Abrams|This book has helped me reflect on my own happiness and what brings true joy to my life. The author follows the Dalai Lama and Archbishop Desmond Tutu as they discuss the challenges of leading a life of joy. It's spiritual and profound and has helped me bring a better me to work, but more importantly, into my personal relationships.|Self Improvement| 5/5 |
 |[Radical Candor](https://www.amazon.com.au/RADICAL-CANDOR-KIM-SCOTT/dp/1250103509)|Kim Scott|My favourite book on giving and receiving feedback. This has been one of the most influencial reads on my career as a manager and leader.|Leadership, Management, Culture | 5/5 |
