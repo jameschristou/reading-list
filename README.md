@@ -19,6 +19,8 @@ I've created this list so I can easily share my thoughts on books I have read re
 | [Act Like a Leader, Think Like a Leader](https://www.amazon.com.au/Act-Like-Leader-Think-ebook/dp/B00O4CRR8S) |Herminia Ibarra|
 | [Good to Great: Why Some Companies Make the Leap and Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) |Jim Collins|
 | [Build What Matters](https://www.amazon.com.au/Build-What-Matters-Delivering-Vision-Led-ebook/dp/B08GQMCP19) |Ben Foster|
+| [Inspired](https://www.amazon.com.au/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N) |Marty Cagan|
+| [Atomic Habits](https://www.amazon.com.au/Atomic-Habits-Proven-Build-Break/dp/0735211299)|James Clear|
 
 ## Previously Read
 | Title     | Author | Description | Categories | My Rating |
