@@ -21,6 +21,7 @@ I've created this list so I can easily share my thoughts on books I have read re
 | [Build What Matters](https://www.amazon.com.au/Build-What-Matters-Delivering-Vision-Led-ebook/dp/B08GQMCP19) |Ben Foster|
 | [Inspired](https://www.amazon.com.au/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N) |Marty Cagan|
 | [Atomic Habits](https://www.amazon.com.au/Atomic-Habits-Proven-Build-Break/dp/0735211299)|James Clear|
+| [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project)|Gene Kim, Kevin Behr, George Spafford|
 
 ## Previously Read
 | Title     | Author | Description | Categories | My Rating |
