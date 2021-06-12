@@ -9,8 +9,9 @@ I've created this list so I can easily share my thoughts on books I have read re
 ## On My List
 | Title     | Author |
 | ----------- | ----------- |
-| [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com.au/Drive-Surprising-Truth-About-Motivates/dp/1594484805) |Daniel H. Pink|
 | [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860) | Reed Hastings, Erin Meyer |
+| [Building Mobile Apps at Scale: 39 Engineering Challenges](https://www.amazon.com.au/Building-Mobile-Apps-Scale-Engineering/dp/1638778868)|Gergely Orosz|
+| [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com.au/Drive-Surprising-Truth-About-Motivates/dp/1594484805) |Daniel H. Pink|
 | [High Output Management](https://www.amazon.com.au/High-Output-Management-Andrew-Grove/dp/0679762884) |Andrew S. Grove|
 | [Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.au/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) | Nicole Forsgren Phd, Jez Humble, Gene Kim|
 | [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com.au/Managing-Humans-Humorous-Software-Engineering-dp-1484221575/dp/1484221575/) |Michael Lopp|
