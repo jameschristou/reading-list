@@ -47,3 +47,4 @@ I've created this list so I can easily share my thoughts on books I have read re
 |[Product Thinking](https://produxlabs.com/product-thinking)|Melissa Perri||Product Management|4/5|
 |[Gartner Talent Angle](https://www.gartner.com/en/podcasts/talent-angle)|Scott Engler|Excellent HR podcast on management and leadership ideas|Leadership, Management|4/5|
 |[Tech Lead Journal](https://techleadjournal.dev/)|Henry Suryawirawan||Tech Leadership, Engineering|4/5|
+|[Spotify: A Product Story](https://open.spotify.com/show/3L9tzrt0CthF6hNkxYIeSB)|Gustav Söderström|This is an excellent example of story telling and there's lots of gold around the product strategy lessons they learned at Spotify as they reshaped an entire industry and stole back from the music pirates. The story of the street fight between Napster and Metallica is worth it alone!|Tech Leadership, Engineering, Start Ups, Culture|5/5|
