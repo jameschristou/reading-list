@@ -4,12 +4,11 @@ I've created this list so I can easily share my thoughts on books I have read re
 ## Currently Reading
 | Title     | Author |
 | ----------- | ----------- |
-| [Building Mobile Apps at Scale: 39 Engineering Challenges](https://www.amazon.com.au/Building-Mobile-Apps-Scale-Engineering/dp/1638778868)|Gergely Orosz|
+| [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860) | Reed Hastings, Erin Meyer |
 
 ## On My List
 | Title     | Author |
 | ----------- | ----------- |
-| [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860) | Reed Hastings, Erin Meyer |
 | [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com.au/Drive-Surprising-Truth-About-Motivates/dp/1594484805) |Daniel H. Pink|
 | [High Output Management](https://www.amazon.com.au/High-Output-Management-Andrew-Grove/dp/0679762884) |Andrew S. Grove|
 | [Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.au/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) | Nicole Forsgren Phd, Jez Humble, Gene Kim|
@@ -26,6 +25,7 @@ I've created this list so I can easily share my thoughts on books I have read re
 ## Previously Read
 | Title     | Author | Description | Categories | My Rating |
 | --------- | ------ | ----------- | ---------- | --------- |
+| [Building Mobile Apps at Scale: 39 Engineering Challenges](https://www.amazon.com.au/Building-Mobile-Apps-Scale-Engineering/dp/1638778868) | Gergely Orosz | George puts forward 39 challenges that mobile development teams are likely to face as they scale, based on his own experience at Uber and drawing upon the experiences of other industry leading apps built for scale. As someone with little mobile app development experience who is currently leading a mobile development team I found this book especially useful and insightful. It's helped give me a better understanding of some of the unique challenges that mobile engineering teams face and some things to think about as we continue to grow and scale. | Software Engineering, Mobile, Scale | 5/5 |
 | [Product Leadership: How Top Product Managers Launch Awesome Products and Build Successful Teams](https://www.amazon.com.au/Product-Leadership-Richard-Banfield/dp/1491960604) | Richard Banfield | I think this book would be a must read for aspiring product leaders. It focuses on the approaches and techniques used by successful product leaders with lots of interviews and real life examples. As an engineer I found it useful and interesting to see what challenges product leaders come across and many of the lessons that make successful product leaders can also be applied to leadership in engineering. | Leadership, Product Management, Product Leadership | 4/5 |
 |[In the Plex: How Google Thinks, Works, and Shapes Our Lives](https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1416596585) | Steven Levy | I'm a self confessed Google fan boy so I loved reading this book. It's basically the history of Google (up until 2010) as told through interviews with many of the people that helped build it. There's some great insights into the collegiate, engineering culture that Larry Page and Sergey Brin created and how this was scaled to create one of the most successful and influential businesses of our time. The book details the many challenges they faced as Google grew but also highlights how often they made the right calls. | Leadership, Entrepreneurship, Tech, Culture | 4/5 |
 |[The Manager`s Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com.au/Manager%60s-Path-Camille-Fournier/dp/1491973897)  | Camille Fournier  | This is a must read book for anyone interested in becoming a Software Engineering leader. The author takes you through the journey of career growth, from Software Engineer all the way up to CTO, and this is based on their own experience. There are lots of great practical tips and advice for anyone at any step of this journey. I'm a Development Team Lead but I found the whole book applicable and valuable. | Leadership, Management, Engineering | 5/5 |
