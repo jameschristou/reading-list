@@ -4,26 +4,28 @@ I've created this list so I can easily share my thoughts on books I have read re
 ## Currently Reading
 | Title     | Author |
 | ----------- | ----------- |
-| [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X) |Melissa Perri|
+| [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com.au/Team-Topologies-Organizing-Business-Technology/dp/1942788819/) |Matthew Skelton, Manuel Pais|
 
 ## On My List
 | Title     | Author |
 | ----------- | ----------- |
+| [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com.au/DevOPS-Handbook-World-Class-Reliability-Organizations/dp/1942788002/) | Gene Kim, Jez Humble, Patrick Debois, John Willis|
 | [Inspired](https://www.amazon.com.au/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N) |Marty Cagan|
 | [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com.au/Drive-Surprising-Truth-About-Motivates/dp/1594484805) |Daniel H. Pink|
 | [High Output Management](https://www.amazon.com.au/High-Output-Management-Andrew-Grove/dp/0679762884) |Andrew S. Grove|
-| [Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.au/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) | Nicole Forsgren Phd, Jez Humble, Gene Kim|
 | [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com.au/Managing-Humans-Humorous-Software-Engineering-dp-1484221575/dp/1484221575/) |Michael Lopp|
 | [Lean Enterprise: How High Performance Organizations Innovate at Scale](https://www.amazon.com.au/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425) |Jez Humble|
 | [Act Like a Leader, Think Like a Leader](https://www.amazon.com.au/Act-Like-Leader-Think-ebook/dp/B00O4CRR8S) |Herminia Ibarra|
 | [Good to Great: Why Some Companies Make the Leap and Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) |Jim Collins|
 | [Build What Matters](https://www.amazon.com.au/Build-What-Matters-Delivering-Vision-Led-ebook/dp/B08GQMCP19) |Ben Foster|
-| [Atomic Habits](https://www.amazon.com.au/Atomic-Habits-Proven-Build-Break/dp/0735211299)|James Clear|
+| [Atomic Habits](https://www.amazon.com.au/Atomic-Habits-Proven-Build-Break/dp/0735211299) | James Clear |
 | [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project)|Gene Kim, Kevin Behr, George Spafford|
 
 ## Previously Read
 | Title     | Author | Description | Categories | My Rating |
 | --------- | ------ | ----------- | ---------- | --------- |
+| [Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.au/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) | Nicole Forsgren Phd, Jez Humble, Gene Kim| | DevOps, Software Engineering | 4/5 |
+| [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X) |Melissa Perri| | Product Management, Leadership | 4/5 |
 | [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.amazon.com.au/Good-Strategy-Bad-Difference-Matters/dp/0307886239) |Richard Rumelt| I have recently been part of a strategy working group at work and this book was recommended to me. As someone who has never been part of formulating a strategy I found it immensely useful and it helped me understand what a good strategy should look like and the problems a good strategy solves. The language used by the author did at times make it feel like this book was written many decades ago but it is definitely up to date and contains many examples of good and bad strategy from Roman times all the way up to today with companies like Apple. I would recommend this to anyone working on strategy. | Strategy, Leadership | 4/5 |
 | [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860) | Reed Hastings, Erin Meyer | Reed and Erin talk about what they've done at Netflix from a culture and people perspective to make them one of the most successful companies of recent times. Don't read this book thinking you can apply all of their recommendations to your own business or team - policies such as "good performance will get you a generous severance" would probably not make sense for most businesses, but its great reading none the less. | Culture, Leadership | 4/5 |
 | [Building Mobile Apps at Scale: 39 Engineering Challenges](https://www.amazon.com.au/Building-Mobile-Apps-Scale-Engineering/dp/1638778868) | Gergely Orosz | George puts forward 39 challenges that mobile development teams are likely to face as they scale, based on his own experience at Uber and drawing upon the experiences of other industry leading apps built for scale. As someone with little mobile app development experience who is currently leading a mobile development team I found this book especially useful and insightful. It's helped give me a better understanding of some of the unique challenges that mobile engineering teams face and some things to think about as we continue to grow and scale. | Software Engineering, Mobile, Scale | 5/5 |
