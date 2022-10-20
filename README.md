@@ -4,11 +4,12 @@ I've created this list so I can easily share my thoughts on books I have read re
 ## Currently Reading
 | Title     | Author |
 | ----------- | ----------- |
-| [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com.au/DevOPS-Handbook-World-Class-Reliability-Organizations/dp/1942788002/) | Gene Kim, Jez Humble, Patrick Debois, John Willis|
+
 
 ## On My List
 | Title     | Author |
 | ----------- | ----------- |
+| [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.amazon.com.au/Coaching-Habit-Less-Change-Forever/dp/0978440749/) |Michael Bungay Stanier|
 | [Inspired](https://www.amazon.com.au/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N) |Marty Cagan|
 | [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com.au/Drive-Surprising-Truth-About-Motivates/dp/1594484805) |Daniel H. Pink|
 | [High Output Management](https://www.amazon.com.au/High-Output-Management-Andrew-Grove/dp/0679762884) |Andrew S. Grove|
@@ -23,6 +24,8 @@ I've created this list so I can easily share my thoughts on books I have read re
 ## Previously Read
 | Title     | Author | Description | Categories | My Rating |
 | --------- | ------ | ----------- | ---------- | --------- |
+| [Our Iceberg Is Melting](https://www.amazon.com.au/Our-Iceberg-Melting-Succeeding-Conditions/dp/0399563911/) | John Kotter | Uses the story of a colony of penguins who discover their iceberg is melting as an example to show what good change management and leadership can look like. I read this book after going through some significant changes in some teams I was leading and it really resonated. It's in large font and really easy to read so I was able to finish it within a day. I really recommend it for all leaders (because change is constant) but especially to those going through significant change. | Change Management, Leadership | 5/5 |
+| [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com.au/DevOPS-Handbook-World-Class-Reliability-Organizations/dp/1942788002/) | Gene Kim, Jez Humble, Patrick Debois, John Willis | One of the classics of devops literature and for very good reason. This book does a great job of outlining the benefits of a devops transformation and why technology organisations should adopt devops practices. | DevOps, Software Engineering | 5/5 |
 | [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com.au/Team-Topologies-Organizing-Business-Technology/dp/1942788819/) |Matthew Skelton, Manuel Pais | Wow I wish I had read this book about a year ago! It gives you a model for structuring software teams to deliver value continuously and sustainably. It covers Conways Law, touches on the learnings from DevOps and talks about the types of teams and the interactions between them that help make software teams thrive. If you're facing challenges around team structure, and seeing signals like unclear ownership, poor delivery, teams feeling overburdened then this is a must read. It's full of great case studies and practical advice and is fast becoming one of the classics in software engineering literature. | DevOps, Software Engineering, Architecture | 5/5 |
 | [Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.au/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) | Nicole Forsgren Phd, Jez Humble, Gene Kim | Still think you can't move fast without sacrificing quality and breaking things? This is the book you need to read. Full of industry research which debunks this myth and in fact proves that businesses that have embraced DevOps can deliver new customer value faster, with more frequent deployments, lower mean time to restore and a lower change failure percentage. Businesses which embrace this way of operating have a clear competitive advantage. This book is a must read classic for the modern software engineering professional. | DevOps, Software Engineering | 5/5 |
 | [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X) |Melissa Perri| | Product Management, Leadership | 4/5 |
