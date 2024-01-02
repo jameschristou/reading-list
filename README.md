@@ -4,14 +4,13 @@ I've created this list so I can easily share my thoughts on books I have read re
 ## Currently Reading
 | Title     | Author |
 | ----------- | ----------- |
-| [The Confidence Gap: A Guide to Overcoming Fear and Self-Doubt](https://www.amazon.com/Confidence-Gap-Guide-Overcoming-Self-Doubt/dp/1590309235/) |Russ Harris|
+| [The Good Life](https://www.amazon.com.au/Good-Life-Lessons-Scientific-Happiness/dp/198216669X) |Robert Waldinger M D, Marc Schulz PH D|
 
 ## On My List
 | Title     | Author |
 | ----------- | ----------- |
 | [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.amazon.com.au/Coaching-Habit-Less-Change-Forever/dp/0978440749/) |Michael Bungay Stanier|
 | [Inspired](https://www.amazon.com.au/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N) |Marty Cagan|
-| [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com.au/Drive-Surprising-Truth-About-Motivates/dp/1594484805) |Daniel H. Pink|
 | [High Output Management](https://www.amazon.com.au/High-Output-Management-Andrew-Grove/dp/0679762884) |Andrew S. Grove|
 | [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com.au/Managing-Humans-Humorous-Software-Engineering-dp-1484221575/dp/1484221575/) |Michael Lopp|
 | [Lean Enterprise: How High Performance Organizations Innovate at Scale](https://www.amazon.com.au/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425) |Jez Humble|
@@ -21,10 +20,15 @@ I've created this list so I can easily share my thoughts on books I have read re
 | [Atomic Habits](https://www.amazon.com.au/Atomic-Habits-Proven-Build-Break/dp/0735211299) | James Clear |
 | [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project)|Gene Kim, Kevin Behr, George Spafford|
 | [Human Powered: Supercharge your digital product teams with emotional intelligence](https://www.amazon.com/Human-Powered-Supercharge-emotional-intelligence/dp/1781336067) | Trenton Moss | 
+| [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028/) | Christina R Wodtke |
+| [The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups](https://www.amazon.com.au/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X) |Gergely Orosz|
+| [A Philosophy of Software Design](https://www.amazon.com.au/Philosophy-Software-Design-2nd/dp/173210221X) |John Ousterhout|
+| [Tidy First?: A Personal Exercise in Empirical Software Design](https://www.amazon.com.au/Tidy-First-Personal-Exercise-Empirical/dp/1098151240) |Kent Beck|
 
 ## Previously Read
 | Title     | Author | Description | Categories | My Rating |
 | --------- | ------ | ----------- | ---------- | --------- |
+| [The Confidence Gap: A Guide to Overcoming Fear and Self-Doubt](https://www.amazon.com/Confidence-Gap-Guide-Overcoming-Self-Doubt/dp/1590309235/) |Russ Harris| This book goes into using Acceptance and Committment Therapy to help us change our relationship with fear and self-doubt and to enable us to overcome our fears. It's full of exercises to build the muscles to help overcome fears and to practice thinking styles that better prepare us for when we are inevitably put into situations that evoke fear.| Self-Help | 5/5 |
 | [Say What You Mean: A Mindful Approach to Nonviolent Communication](https://www.amazon.com.au/Say-What-You-Mean-Communication/dp/161180583X) |Oren J. Sofer| If you will only read one book on communication make this the one! I found it a little bit difficult to read at the beginning - the author has a writing style that took a bit of getting used to. But the science of communication, framed in terms of individual needs had a powerful impact on me and has definitely changed the way I look at communication both in my personal life but also in professional situations and really with anyone I talk to. The author combines tools like mindfulness and non violent communication and gives you practices to help you develop healthy communication styles that are authentic, meet your needs and values whilst respecting the needs and values of others. | Self-Help | 5/5 |
 | [13 Things Mentally Strong People Don't Do: Take Back Your Power, Embrace Change, Face Your Fears, and Train Your Brain for Happiness and Success](https://www.amazon.com.au/Things-Mentally-Strong-People-Dont/dp/0062358308) |Amy Morin| I've been reading a lot of self help books recently and that's because I've gone through a period of challenge in my personal life but also professionally. This is a great book for those who want to become more resilient and practice healthier thinking styles that will help build mental strength. It helps you understand those unhelpful behaviours we all sometimes exhibit, the negative impact that they have on us and the people around us and then gives you tips on how to start thinking differently. | Self-Help | 5/5 |
 | [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com.au/Drive-Surprising-Truth-About-Motivates/dp/1594484805) |Daniel H. Pink| This is a great book that helps explain the science of motivation as understood today. It goes in depth on the importance of autonomy, mastery and purpose to motivation and how incentives can actually hurt our instrinsic motivation. I really recommend this book for any leader. | Leadership | 5/5 |
@@ -53,9 +57,9 @@ I've created this list so I can easily share my thoughts on books I have read re
 ## Podcasts
 | Title     | Author | Description | Categories | My Rating |
 | --------- | ------ | ----------- | ---------- | --------- |
-| [Masters of Scale](https://mastersofscale.com/) | Reid Hoffman | This is my favourite podcast. Reid (founder of LinkedIn) is an incredible story teller and he never fails to teach you something as he interviews the most successful people in the Tech industry. There are some incredible stories of how the most successful Silicon Valley icons started and currently there is a special **Rapid Response** set of episodes that focus specifically on the social and COVID related challenges facing American industry. | Tech, Entrepreneurship, Start Ups, Leadership | 5/5 |
+| [Tech Lead Journal](https://techleadjournal.dev/)|Henry Suryawirawan| This has fast become my favourite podcast. It's rare that I don't listen to an episode in its entirety. Henry interviews really experienced technical leaders from across the industry from engineering, agile and leadership backgrounds and they usually have awesome stories to share and learn from. |Tech Leadership, Engineering|5/5|
+| [Masters of Scale](https://mastersofscale.com/) | Reid Hoffman | This was my favourite podcast although I feel the relevance for me has tailed off for the last couple of years. Reid (founder of LinkedIn) is an incredible story teller and he never fails to teach you something as he interviews the most successful people in the Tech industry. There are some incredible stories of how the most successful Silicon Valley icons started and currently there is a special **Rapid Response** set of episodes that focus specifically on the social and COVID related challenges facing American industry. | Tech, Entrepreneurship, Start Ups, Leadership | 4/5 |
 |[How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)|Guy Raz|I mainly look for the stories related to tech companies in here. Guy Raz is an excellent host who shows a genuine interest in how people achieve success in business from bakeries and cosmetics to some Silicon Valley giants.|Entrepreneurship, Start Ups|4/5|
 |[Product Thinking](https://produxlabs.com/product-thinking)|Melissa Perri||Product Management|4/5|
 |[Gartner Talent Angle](https://www.gartner.com/en/podcasts/talent-angle)|Scott Engler|Excellent HR podcast on management and leadership ideas|Leadership, Management|4/5|
-|[Tech Lead Journal](https://techleadjournal.dev/)|Henry Suryawirawan||Tech Leadership, Engineering|4/5|
 |[Spotify: A Product Story](https://open.spotify.com/show/3L9tzrt0CthF6hNkxYIeSB)|Gustav Söderström|This is an excellent example of story telling and there's lots of gold around the product strategy lessons they learned at Spotify as they reshaped an entire industry and stole back from the music pirates. The story of the street fight between Napster and Metallica is worth it alone!|Tech Leadership, Engineering, Start Ups, Culture|5/5|
