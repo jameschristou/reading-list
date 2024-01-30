@@ -9,6 +9,7 @@ I've created this list so I can easily share my thoughts on books I have read re
 ## On My List
 | Title     | Author |
 | ----------- | ----------- |
+| [The Engineering Executive's Primer: Impactful Technical Leadership](https://www.amazon.com/Engineering-Executives-Primer-Impactful-Leadership/dp/1098149483) |Will Larson|
 | [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.amazon.com.au/Coaching-Habit-Less-Change-Forever/dp/0978440749/) |Michael Bungay Stanier|
 | [Inspired](https://www.amazon.com.au/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N) |Marty Cagan|
 | [High Output Management](https://www.amazon.com.au/High-Output-Management-Andrew-Grove/dp/0679762884) |Andrew S. Grove|
