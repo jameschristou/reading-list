@@ -9,6 +9,7 @@ I've created this list so I can easily share my thoughts on books I have read re
 ## On My List
 | Title     | Author |
 | ----------- | ----------- |
+| [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com.au/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186) |Will Larson|
 | [The Engineering Executive's Primer: Impactful Technical Leadership](https://www.amazon.com/Engineering-Executives-Primer-Impactful-Leadership/dp/1098149483) |Will Larson|
 | [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.amazon.com.au/Coaching-Habit-Less-Change-Forever/dp/0978440749/) |Michael Bungay Stanier|
 | [Inspired](https://www.amazon.com.au/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N) |Marty Cagan|
